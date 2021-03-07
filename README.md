@@ -1,11 +1,11 @@
 # Work-Day-Scheduler
 
 <h2>Objective:</h2>
-To create a simple calendar application that allows the user to save events for each hour of the day (with HTML and CSS powered by jQuery)
+<p>To create a simple calendar application that allows the user to save events for each hour of the day (with HTML and CSS powered by jQuery)</p>
 
 
-<p>Deployed Link:</p>
-https://ronyelon.github.io/Work-Day-Scheduler/
+<p><h2>Deployed Link:</p></h2>
+<p>https://ronyelon.github.io/Work-Day-Scheduler/</p>
 
 
 
