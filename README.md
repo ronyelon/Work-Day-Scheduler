@@ -3,6 +3,10 @@
 Objective:
 To create a simple calendar application that allows the user to save events for each hour of the day (with HTML and CSS powered by jQuery)
 
+https://ronyelon.github.io/Work-Day-Scheduler/
+
+
+
 User Story
 
 AS AN employee with a busy schedule
