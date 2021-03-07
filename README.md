@@ -4,18 +4,18 @@
 To create a simple calendar application that allows the user to save events for each hour of the day (with HTML and CSS powered by jQuery)
 
 
-<h2><p>Deployed Link</p><h2>
+<p>Deployed Link:</p>
 https://ronyelon.github.io/Work-Day-Scheduler/
 
 
 
-<h2><p>User Story</p></h2>
+<h2><p>User Story:</p></h2>
 
 <p>AS AN employee with a busy schedule</p>
 <p>I WANT to add important events to a daily planner</p>
 <p>SO THAT I can manage my time effectively</p>
 
-<h2><p>Acceptance Criteria</p></h2>
+<h2><p>Acceptance Criteria:</p></h2>
 
 <p>GIVEN I am using a daily planner to create a schedule</p>
 <p>WHEN I open the planner</p>
@@ -32,6 +32,6 @@ https://ronyelon.github.io/Work-Day-Scheduler/
 <p>THEN the saved events persist</p>
 
 
-<h2><p>Demo</p></h2>
+<h2><p>Demo:</p></h2>
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](screenshot.gif)
