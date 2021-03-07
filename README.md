@@ -3,6 +3,8 @@
 <h2>Objective:</h2>
 To create a simple calendar application that allows the user to save events for each hour of the day (with HTML and CSS powered by jQuery)
 
+
+<h2><p>Deployed Link</p><h2>
 https://ronyelon.github.io/Work-Day-Scheduler/
 
 
@@ -30,5 +32,6 @@ https://ronyelon.github.io/Work-Day-Scheduler/
 <p>THEN the saved events persist</p>
 
 
+<h2><p>Demo</p></h2>
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](screenshot.gif)
