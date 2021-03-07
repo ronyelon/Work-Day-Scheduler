@@ -1,5 +1,8 @@
 # Work-Day-Scheduler
 
+Objective:
+To create a simple calendar application that allows the user to save events for each hour of the day (with HTML and CSS powered by jQuery)
+
 User Story
 
 AS AN employee with a busy schedule
@@ -21,5 +24,7 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](screenshot.gif)
